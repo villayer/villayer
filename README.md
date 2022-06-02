@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### What I know is
+- Java
+- Javascript
+- C
+- Python and matlab
 
 <!--
 **villayer/villayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
