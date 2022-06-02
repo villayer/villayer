@@ -1,9 +1,13 @@
 ### Hi there 👋
 #### What I know is
-- Java
-- Javascript
-- C
+- Java, UML, and Databases (and of course, nosql > sql)
+- I'm somewhat good at Javascript, HTML, and CSS.
+- C (Intermediate level; I've done some competitive programming in C and know algos and Data Structres in C better than any other language.)
 - Python and matlab
+
+#### I’m currently learning ...
+- Rust
+- C++
 
 <!--
 **villayer/villayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
