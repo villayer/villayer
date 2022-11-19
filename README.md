@@ -1,9 +1,10 @@
 ### Hi there 👋
-#### What I know is
-- Java, UML, and Databases (and of course, nosql > sql)
-- I'm somewhat good at Javascript, HTML, and CSS.
-- C (Intermediate level; I've done some competitive programming in C and know algos and Data Structres in C better than any other language.)
-- Python and matlab
+#### What I know
+- Java, Object Oriented desgin w/ UML, and Databases ( Sql and NoSql).
+- HTML/CSS/JS plus knowledge on frameworks like React & NextJS.
+- RESTFUL API Desgin using tools like postman & Insomnia.
+- C - Intermediate level.
+- Python and Matlab
 
 #### I’m currently learning ...
 - Rust
